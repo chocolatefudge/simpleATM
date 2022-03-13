@@ -1,0 +1,9 @@
+{
+    "data_dir":"data",
+    "auth_db_path":"data/auth.db",
+    "balance_db_path":"data/balance.db",
+
+    "test_file_path":"test.txt",
+    "user_data_path":"userdata.txt"
+
+}
